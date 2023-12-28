@@ -1,12 +1,5 @@
-(1, Instruction::LEFT),
-(2, Instruction::RIGHT),
-(3, Instruction::INCR),
-(4, Instruction::DECR),
-(5, Instruction::READ),
-(6, Instruction::READCHAR),
-(7, Instruction::MUL10),
-(8, Instruction::MUL100),
-(9, Instruction::WRITE)
+Hello world where each line shows what amound of spaces are needed between tabs
+This code works out of the box.
 88888888	333	7777777	4444	7777777	4444	7777777	4444	333	333	666666
         	   	       	    	       	    	       	    	   	   	      
 1	88888888	333	7777777	4444	7777777	4444	7777777	4444	4444	666666
